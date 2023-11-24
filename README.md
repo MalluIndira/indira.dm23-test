@@ -1,2 +1,2 @@
 # indira.dm23-test
- ett test repo
+ Ett fint test repo för att borja lara sig git. 
